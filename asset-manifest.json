@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Gitproffinder/static/css/main.037697f0.css",
-    "main.js": "/Gitproffinder/static/js/main.666c49df.js",
+    "main.js": "/Gitproffinder/static/js/main.bad1a70c.js",
     "static/js/453.788b055a.chunk.js": "/Gitproffinder/static/js/453.788b055a.chunk.js",
     "static/media/bg.png": "/Gitproffinder/static/media/bg.6c222747b0ddd3c46430.png",
     "index.html": "/Gitproffinder/index.html",
     "main.037697f0.css.map": "/Gitproffinder/static/css/main.037697f0.css.map",
-    "main.666c49df.js.map": "/Gitproffinder/static/js/main.666c49df.js.map",
+    "main.bad1a70c.js.map": "/Gitproffinder/static/js/main.bad1a70c.js.map",
     "453.788b055a.chunk.js.map": "/Gitproffinder/static/js/453.788b055a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.037697f0.css",
-    "static/js/main.666c49df.js"
+    "static/js/main.bad1a70c.js"
   ]
 }
